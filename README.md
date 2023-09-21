@@ -22,3 +22,5 @@
 | # | Sessions | Keywords |
 |:--: |:--: |:--: |
 | 1 | Code Cells 💗 | [variable, assign](https://github.com/jeonsy22/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
+| 2 | Five Types of Data(1) 💗 | [number, string, list, tuple, dictionary](https://github.com/jeonsy22/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
+| 3 | Five Types of Data(2) 💗 | [number, string, list, tuple, dictionary](https://github.com/jeonsy22/NLP_2023/blob/main/2_FiveTypesofData2.ipynb) |
