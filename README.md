@@ -23,5 +23,4 @@
 |:--: |:--: |:--: |
 | 1 | Code Cells 💗 | [variable, assign](https://github.com/jeonsy22/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
 | 2 | Five Types of Data 💗 | [number, string, list, tuple, dictionary](https://github.com/jeonsy22/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
-| 3 | 4_1_IfStatement.ipynb | [4_1, ㅑㄹstatement](https://colab.research.google.com/github/jeonsy22/NLP_2023/blob/main/4_1_IfStatement.ipynb) |
-| 4 | 4_2_ForStatement | [4_2, Forstatement](https://colab.research.google.com/github/jeonsy22/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
+| 3 | if, for, try, while, regular | [4_1, ifstatement](https://colab.research.google.com/github/jeonsy22/NLP_2023/blob/main/4_1_IfStatement.ipynb) |(https://colab.research.google.com/github/jeonsy22/NLP_2023/blob/main/4_2_ForStatement.ipynb) | (https://colab.research.google.com/github/ms624atyale/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) | (https://colab.research.google.com/github/ms624atyale/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)| (https://colab.research.google.com/github/ms624atyale/NLP_2023/blob/main/5_RegularExpression.ipynb) |
